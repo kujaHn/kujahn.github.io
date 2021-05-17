@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: UTF-8
-title: "My Awesome Site"
+title: "KujaHn.dev"
 description: "It really is the best."
 baseurl: ""
 url: "https://kujahn.github.io"
