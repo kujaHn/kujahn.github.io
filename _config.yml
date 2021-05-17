@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: UTF-8
 title: "My Awesome Site"
 description: "It really is the best."
-baseurl: "/"
+baseurl: ""
 url: "https://kujahn.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
