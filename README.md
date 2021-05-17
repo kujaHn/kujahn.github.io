@@ -1,2 +1,0 @@
-# kujaHn.github.io
-blog
